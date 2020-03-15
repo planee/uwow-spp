@@ -4,6 +4,11 @@ VS 2017 x64
 boost 1.64
 openssl 1.0
 
+
+Data: https://mega.nz/#!Mv41VRBY!_wn4-kvY457MDzd72dY17NRnqAF7CM2nE5MitVD6e38
+DB: https://mega.nz/#!drwV2Q6A!zbUI_w1cnTfVp_FCw_IpS8YtsCIexSe9eJFSV_8zwJ8
+Core: https://mega.nz/#!6YsS0QyJ!r7_4wlGQAfcEtbr25cCd-1ql8p3XIeHbUHCD7Wt2lGw
+
 cmake settings libeay32MDd.lib libeay32MD.lib  ssleay32MDd.lib ssleay32MD.lib
 
 Legion scripts:
